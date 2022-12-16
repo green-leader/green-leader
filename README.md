@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=green-leader&layout=compact&hide=shell&count_private=true&show_icons=true&theme=great-gatsby)]()
 
+<a rel="me" href="https://mstdn.social/@malformedthorium">@malformedthorium@mstdn.social</a>
+
 <!--
 **green-leader/green-leader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
